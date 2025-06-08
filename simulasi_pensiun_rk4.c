@@ -2,7 +2,6 @@
 #include <math.h>
 
 // Definisi konstanta untuk simulasi
-#define INITIAL_AGE 25
 #define YEARS 100
 #define INFLATION 0.03      // Inflasi tahunan (3%)
 #define RETURN 0.07         // Return investasi tahunan (7%)
