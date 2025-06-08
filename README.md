@@ -29,6 +29,7 @@ Program ini melakukan simulasi perencanaan pensiun untuk menentukan usia berapa 
     - r: return investasi riil tahunan
 
 - Model Runge-Kutta orde 4 (RK4):
+
 ![](https://imgur.com/Z5LZdon.png)
 ![](https://imgur.com/veClL9R.png)
 
